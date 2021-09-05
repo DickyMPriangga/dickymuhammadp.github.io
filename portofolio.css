@@ -110,6 +110,14 @@ body
 	transition: .5s;
 }
 
+#work-potper
+{
+	font-family: 'Press Start 2P', cursive;
+	color: #000000;
+	font-size: calc(10px + .5vw);
+	transition: .5s;
+}
+
 #project-starjoust
 {
 	font-family: 'Press Start 2P', cursive;
@@ -214,7 +222,7 @@ body
 	color: #BB000E;
 }
 
-#sub-projects-text
+#sub-works-text
 {
 	background-color: #BB000E;
 	border-radius: 15px;
@@ -278,6 +286,16 @@ body
 }
 
 #sub-back-cleanrush
+{
+	background: url(cleanrush-bg.png) no-repeat center center;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	padding : 50px 100px 50px 100px;
+}
+
+#sub-back-potper
 {
 	background: url(cleanrush-bg.png) no-repeat center center;
   	-webkit-background-size: cover;
