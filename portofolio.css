@@ -257,6 +257,7 @@ body
 
 #sub-back-genshin-plan
 {
+	background: url(blank.png) no-repeat center center;
   	-webkit-background-size: contain;
   	-moz-background-size: contain;
   	-o-background-size: contain;
