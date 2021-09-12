@@ -255,6 +255,17 @@ body
 	transition: .5s;
 }
 
+#sub-back-genshin-plan
+{
+	background: no-repeat center center;
+  	-webkit-background-size: contain;
+  	-moz-background-size: contain;
+  	-o-background-size: contain;
+  	background-size: contain;
+  	background-color: #000000;
+	padding : 50px 10% 50px 10%;
+}
+
 #sub-back-starjoust
 {
 	background: url(starjoust-bg.png) no-repeat center center;
